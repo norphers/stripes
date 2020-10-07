@@ -1,0 +1,2 @@
+# stripes
+Sass exercise.
